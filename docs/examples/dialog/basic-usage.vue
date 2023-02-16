@@ -4,7 +4,7 @@
   </el-button>
 
   <el-dialog
-    v-model="dialogVisible"
+    v-model="true"
     title="Tips"
     width="30%"
     :before-close="handleClose"
